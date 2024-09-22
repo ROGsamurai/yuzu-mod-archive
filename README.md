@@ -313,6 +313,13 @@ If you're looking for an automated process to install these mods, you can try th
 
 #
 
+### The Legend of Zelda: Echoes of Wisdom
+| Mod | Description | Applies to | Credit |
+| --- | ----------- | ---------- | ------ |
+| [Blur Removal](https://github.com/ROGsamurai/yuzu-mod-archive/raw/refs/heads/main/files/The%20Legend%20of%20Zelda%20Echoes%20of%20Wisdom/Blur_Removal.zip) | Removes the tilt-shift blur. | `1.00` `1.0.1` | Unknown
+
+#
+
 ### The Legend of Zelda: Link's Awakening
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
